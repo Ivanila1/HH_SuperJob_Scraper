@@ -1,2 +1,8 @@
-# HH_SuperJob_Scraper
-Scraper for hh.ru and superjob.ru
+# Scrapers for hh.ru and superjob.ru
+
+## Парсеры для hh.ru и superjob.ru.
+Можно быстро получить нужную вакансию с двух поисковиков по конкретным критериям например:
+- выбрав высокую зарплату 
+- выбрав город
+ 
+Можно загрузить информацию по найденным вакансиям в json file
